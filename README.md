@@ -4,7 +4,7 @@ This repo contains projects for the MAS500 class.
 
 ### Submission notes and research questions
 
-First submission (HW1_Notebook_AE.ipynb) is an example of how to mine insights from the mediacloud api. For more documentation, look here: https://pypi.python.org/pypi/mediacloud. This research question answers whether Trump or Obama were mentioned more in mainstream media in August 2015. Worked with Kristy Johnson. 
+First submission (HW1_Notebook_AE.ipynb) is an example of how to mine insights from the mediacloud api. For more documentation, look here: https://pypi.python.org/pypi/mediacloud. This research question answers whether Trump or Obama was mentioned more in mainstream media in August 2015. Worked with Kristy Johnson. 
 
 Second submission (HW1_intermediate.ipynb and MC_HW1intermediate.py, with relevant requirements.txt and sample key config file) is a second research question that answers how many times mainstream media referenced "Spooky Action at a Distance" after the publication of a recent Nature result on October 21st, 2015. Worked with Kristy Johnson.
 
