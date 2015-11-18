@@ -1,0 +1,5 @@
+#Sample API KEY config file
+#include only one line (so delete these comments) with the raw string of your API key
+#save as "MC_ApiKey.txt" to avoid editing the python script
+
+your_key_here
